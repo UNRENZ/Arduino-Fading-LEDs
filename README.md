@@ -1,1 +1,0 @@
-# IoT-Laboratory Activities
